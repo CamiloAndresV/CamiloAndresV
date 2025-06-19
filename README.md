@@ -44,6 +44,6 @@ Python | HTML | CSS | MySQL | Git
 
 ---
 
-Cada nuevo reto es una oportunidad para aprender, mejorar y avanzar hacia mis metas. ¡Gracias por visitar mi perfil!
+Cada nuevo reto es una oportunidad para aprender, mejorar y avanzar. ¡Gracias por visitar mi perfil!
 
 
