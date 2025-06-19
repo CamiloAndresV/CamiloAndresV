@@ -35,7 +35,7 @@ Python | HTML | CSS | MySQL | Git
 
 - 🧠 **Aprendizaje constante**: Me gusta investigar, tomar apuntes y entender bien cada tema antes de aplicarlo.
 - 👨‍💻 **Desarrollo backend básico**: He trabajado con FastAPI para crear rutas, manejar datos y conectar con bases de datos.
-- 🛠️ **Manejo de bases de datos**: Sé crear, leer, actualizar y eliminar datos en MySQL. También he trabajado con ORM como SQLAlchemy.
+- 🛠️ **Manejo de bases de datos**: Sé crear, leer, actualizar y eliminar datos en MySQL.
 - 🗂️ **Organización de proyectos**: Estoy aprendiendo a estructurar mejor mis proyectos, separando por carpetas, archivos y responsabilidades.
 - 🤝 **Trabajo en equipo**: Me gusta colaborar con otros, compartir ideas y ayudar cuando puedo.
 - 🔍 **Resolución de problemas**: Si algo no funciona, investigo, pruebo y busco soluciones hasta resolverlo.
