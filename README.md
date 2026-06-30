@@ -37,7 +37,7 @@ Estoy ampliando mi stack con **Kotlin** y **Android Studio** para construir mis 
 
 ## Experiencia
 
-- **Tecnología en Análisis y Desarrollo de Software** — SENA *
+- **Tecnología en Análisis y Desarrollo de Software** — SENA 
 - [learning-zone](https://github.com/edierGuerra/learning-zone) — Proyecto de grado en equipo, apliqué backend, lógica de negocio y estructura de proyectos.
 - **Prácticas profesionales** — Desarrollo backend con Python y Flask para una empresa del sector salud *(hasta marzo 2026)*
 - **Contrato de continuidad** — Cierre del proyecto anterior *(hasta mayo 2026)*
