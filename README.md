@@ -33,7 +33,7 @@ Me caracteriza un enfoque metódico para resolver problemas: investigo, pruebo y
 
 </div>
 
-Estoy ampliando mi stack con **Kotlin** y **Android Studio** para construir mis primeras aplicaciones móviles.
+Estoy ampliando mi stack con **Javascript** y **Java**.
 
 ## Experiencia
 
