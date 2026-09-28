@@ -29,7 +29,7 @@ Me caracteriza un enfoque metódico para resolver problemas: investigo, pruebo y
 
 <div align="center">
 
-![Aprendiendo](https://skillicons.dev/icons?i=kotlin,androidstudio)
+![Aprendiendo](https://skillicons.dev/icons?i=javascript,java)
 
 </div>
 
